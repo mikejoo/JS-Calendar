@@ -1,7 +1,5 @@
 # Calendar Website using JavaScript/AJAX/JSON
 
-Link: http://ec2-18-218-250-237.us-east-2.compute.amazonaws.com/~mikejoo/module5/group/calendar.php
-
 ## Functionalities
 1. Users can register and log in to website.
 2. Registered users can add/edit/delete their events.
